@@ -26,7 +26,7 @@ Replace these introductory paragraphs with a description of your product.
 
 This Product has the following code components:
 
-- Reading Time web application. Java, built with Maven and Jenkins CI https://github.com/department-of-veterans-affairs/reading-time-demo
+- yet to identify the code components
 
 
 
